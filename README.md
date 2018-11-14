@@ -1,6 +1,6 @@
 # Research Introduction
 
-![](.gitbook/assets/research.jpg)
+![](.gitbook/assets/technology-connections.jpg)
 
 Besides learning how to create technology solutions, it's also extremely important to understand the broader context of how computing impacts society.  For example:
 
