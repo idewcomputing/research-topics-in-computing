@@ -27,8 +27,7 @@ Here are some guidelines to follow when conducting research to gather informatio
   * Use quotations when directly using specific phrases from sources.
   * Here's a [guide to avoiding plagiarism](https://writing.wisc.edu/Handbook/QPA_plagiarism.html).
 * **Avoid copyright infringement of images or other media:**
-  * Create your own images or other media
-  * Use images or other media that allow reuse or modification \(e.g., [search for media with a Creative Commons license](https://search.creativecommons.org/)\).
+  * Create your own images/media – or find images/media that specifically allow reuse or modification \(e.g., [search for media with a Creative Commons license](https://search.creativecommons.org/)\).
   * Understand the requirements for [fair use](https://owl.purdue.edu/owl/research_and_citation/using_research/strategies_for_fair_use.html) of copyrighted works for educational purposes.
   * Here's a [video about copyright and fair use](https://www.commonsense.org/education/videos/copyright-and-fair-use-animation).
 
@@ -52,7 +51,7 @@ Select one of these digital formats to report and share your research findings:
 
 ## Rubric for Report
 
-| ✓- Below Standard | ✓ Meets Standard | ✓+ Exceeds Standard |
+| **✓- Below Standard** | **✓ Meets Standard** | **✓+ Exceeds Standard** |
 | :--- | :--- | :--- |
 | Content is unclear and may contain unnecessary or incorrect information. | Content is clear, concise, accurate, and organized. | Content is clear, concise, accurate, organized, and insightful. |
 | Presentation of content is not professional or effective. Report format is not utilized effectively as communication medium. | Presentation of content is professional and effective. Report format is utilized effectively as communication medium. | Presentation of content is professional, effective, and engaging. Report format is utilized very effectively as communication medium. |
