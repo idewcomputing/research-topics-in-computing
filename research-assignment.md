@@ -50,3 +50,12 @@ Select one of these digital formats to report and share your research findings:
 * Be prepared to share your research report with the class, give a brief verbal summary \(approximately 3-5 minutes\), and then answer questions from the audience.
 * Be sure your research report can be shared digitally with others outside the classroom \(via email, link, or social media post\).
 
+## Rubric for Report
+
+| ✓- Below Standard | ✓ Meets Standard | ✓+ Exceeds Standard |
+| :--- | :--- | :--- |
+| Content is unclear and may contain unnecessary or incorrect information. | Content is clear, concise, accurate, and organized. | Content is clear, concise, accurate, organized, and insightful. |
+| Presentation of content is not professional or effective. Report format is not utilized effectively as communication medium. | Presentation of content is professional and effective. Report format is utilized effectively as communication medium. | Presentation of content is professional, effective, and engaging. Report format is utilized very effectively as communication medium. |
+| Information sources are not cited and may not be credible. | Information sources are cited and are credible. | Information sources are cited correctly and are authoritative. |
+| Research report and summary to class do not demonstrate learning of topic. | Research report and summary to class demonstrate learning of topic. | Research report and summary to class demonstrate in-depth learning of topic. |
+
