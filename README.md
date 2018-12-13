@@ -10,6 +10,10 @@ Besides learning how to create technology solutions, it's also extremely importa
 
 You’ll conduct research to learn more about certain topics in computing. Then you’ll share and discuss your research findings with other people.
 
+{% hint style="success" %}
+**CHOOSING A TOPIC:**  Your teacher will identify which specific research topic\(s\) you should research, as well as the deadline for completing and presenting your research findings.
+{% endhint %}
+
 ## Copyright and License <a id="copyright-and-license"></a>
 
 Copyright © 2018 Michael Frontz and Jim Lyst, Indiana University School of Informatics and Computing at IUPUI
