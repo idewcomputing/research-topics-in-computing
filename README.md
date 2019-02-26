@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/technology-connections.jpg)
 
-Besides learning how to create technology solutions, it's also extremely important to understand the broader context of how computing impacts society.  For example:
+Besides learning how to create technology solutions, it's also important to understand the broader context of how computing impacts society.  For example:
 
 * How do new developments in computing technology affect society?
 * What are the social and ethical concerns with the use \(or misuse\) of technology?
