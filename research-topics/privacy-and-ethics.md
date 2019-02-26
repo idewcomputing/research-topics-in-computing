@@ -2,7 +2,7 @@
 
 You’ll conduct research to learn more about security, privacy, ethics, and other social issues in computing. Then you’ll share your research findings to help people consider how these issues impact society.
 
-Select a research focus from the choices below, and then follow the [research assignment instructions](../research-assignment.md).
+Select a research focus from the choices below, and then follow the [research assignment instructions](../research-report.md).
 
 ## Research Focus 1
 

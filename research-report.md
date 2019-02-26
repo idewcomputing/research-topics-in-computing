@@ -1,8 +1,8 @@
-# Research Assignment
+# Research Report
 
 You’ll conduct research to learn more about certain topics in computing. Then you’ll share your research findings with other people.
 
-Here are the basic steps for the research assignment:
+Here are the basic steps for the research report:
 
 1. Choose a research focus for the assigned topic
 2. Conduct your research to gather information

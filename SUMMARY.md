@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Research Introduction](README.md)
-* [Research Assignment](research-assignment.md)
+* [Research Report](research-report.md)
 
 ## RESEARCH TOPICS
 

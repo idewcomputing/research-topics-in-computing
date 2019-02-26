@@ -2,7 +2,7 @@
 
 You’ll conduct research to learn more about certifications, degrees, and careers in computing. Then you’ll share your research findings to help people make informed decisions about their personal career pathways.
 
-Select a research focus from the choices below, and then follow the [research assignment instructions](../research-assignment.md).
+Select a research focus from the choices below, and then follow the [research assignment instructions](../research-report.md).
 
 ## Research Focus 1
 
